@@ -1,0 +1,1 @@
+{"books": {"123": {"title": "nahid", "author": "nahid", "isbn": "123", "total_copies": 34, "available_copies": 34, "borrowed_by": {}}}, "users": {"admin@library.com": {"email": "admin@library.com", "password": "admin123", "is_admin": true, "borrowed_books": []}, "nahidur@gmail.com": {"email": "nahidur@gmail.com", "password": "123", "is_admin": false, "borrowed_books": []}}}
